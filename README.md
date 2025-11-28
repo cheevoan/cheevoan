@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Cheevoan Vorn</h1>
 <p align="center">
-  Full Stack Developer • Linux Enthusiast
+  Full Stack Developer
 </p>
 
 <p align="center">
@@ -18,8 +18,6 @@ I work across **Web, Mobile, and System-level programming**, with strong experie
 I love building:
 - ⚙️ Backend systems  
 - 📱 Android applications  
-- 🖥 Desktop software  
-- 🐧 Linux-based development environments  
 - 🚀 High-performance and low-level tools  
 
 ---
@@ -28,13 +26,13 @@ I love building:
 
 ### 🖥 Programming Languages
 - **High-Level:** Java, C#, Python, PHP, JavaScript, TypeScript  
-- **Low-Level:** C, C++, Rust  
+- **Low-Level:** C, C++  
 - **Shell & Query:** Bash, SQL  
 
 ### 🌐 Web Development
 - **Backend:** Laravel, Django, ASP.NET Core, Node.js  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Architecture:** REST APIs, Authentication, MVC/MVVM  
+- **Architecture:** REST APIs, Authentication
 
 ### 📱 Mobile Development
 - **Android (Java)**  
@@ -47,10 +45,8 @@ I love building:
 ---
 
 ## 🛠 Development Environment
-- **Linux:** Arch Linux, Kali, Ubuntu, Fedora  
-- Custom **Hyprland** + Tiling WM setups  
-- Shell scripting, security hardening, automation  
-- Windows (primarily for .NET development)  
+- **Linux:** Arch Linux, Kali, Ubuntu
+- Custom **Hyprland**
 
 ---
 
@@ -65,35 +61,18 @@ I love building:
 ---
 
 ## 📂 Featured Projects
-### 🛒 Café Sales Management System
-WPF + MVVM + SQL Server — POS, inventory, reporting, authentication.
-
 ### 📱 Android Mobile Apps (Java)
 Utility apps, data-driven apps, custom UI, offline storage.
 
 ### 🧾 School Management System
 Full access, multi-module, admin dashboard, reporting.
 
-### ⚙️ ECU Tuning Tools – Yamaha MX King 150
-Custom scripts, data logging, parameter adjustments.
-
-### 🔐 Hyprland Linux Setup
-Tiling WM, dark mode, automation, coding environment.
-
 ---
 
 ## 📘 Currently Learning
-- Advanced MySQL  
+- Advanced SQL Server
 - Android development (Java)  
-- WebSockets, real-time communication  
-- Linux performance, security, and automation  
-
----
-
-## 📫 Contact
-- **Email:** your_email_here  
-- **Telegram:** your_telegram_here  
-- **GitHub:** your_github_link  
+- WebSockets, real-time communication
 
 ---
 
